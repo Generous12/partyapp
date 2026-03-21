@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:partyapp/boletos.dart';
-import 'package:partyapp/home.dart';
+
 import 'package:partyapp/iniciar_sesion.dart';
 
 void main() {
